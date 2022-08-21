@@ -1,2 +1,3 @@
 # git_test
-first gitHub reop learning this stuff
+first gitHub repo learning this stuff
+Hello Odin and the rest of the universe!!
